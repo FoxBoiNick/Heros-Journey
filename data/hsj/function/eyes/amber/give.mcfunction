@@ -1,0 +1,1 @@
+give @s minecraft:ender_eye[minecraft:custom_name='["",{"text":"Amber Eye","italic":false}]',minecraft:custom_model_data={"strings":["hsj:amber_eye"]},minecraft:custom_data={"hsj_eye":true,"hsj_amber":true}, minecraft:rarity=epic]
