@@ -4,7 +4,7 @@
 
 ---
 
-### Hero's Journey is a datapack inspired by jack-bagel's [End Remastered](https://modrinth.com/mod/endrem) mod! There are 16 different eyes to collected littered around the world, you will need to gather 12 different ones to open the end portal and go to The End!
+### Hero's Journey is a datapack inspired by jack-bagel's [End Remastered](https://modrinth.com/mod/endrem) mod! There are 16 different eyes to collect littered around the world, you will need to gather 12 different ones to open the end portal and go to The End!
 
 The main intention of this datapack is to encourage players to do things they wouldn't normally do in the game, when was the last time you built a turtle sanctuary?
 
