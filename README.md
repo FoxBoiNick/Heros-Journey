@@ -8,4 +8,6 @@
 
 The main intention of this datapack is to encourage players to do things they wouldn't normally do in the game, when was the last time you built a turtle sanctuary?
 
-All available eyes and hints to their locations can be found in this datapack's advancements! If you want more detail, check out the wiki!
+Hero's Journey **IS** compatible with any datapack that modifies loot tables. This datapack does not modify any loot tables, and inserts the eyes using other methods to maximise compatibility.
+
+All available eyes and hints to their locations can be found in this datapack's advancements! If you want more detail, check out the [wiki](https://github.com/maybejake/Heros-Journey/wiki)!
