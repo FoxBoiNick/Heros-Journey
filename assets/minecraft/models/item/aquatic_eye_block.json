@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+	  "end": "item/aquatic_eye_top",
+	  "side": "item/aquatic_eye_side"
+	}
+  }

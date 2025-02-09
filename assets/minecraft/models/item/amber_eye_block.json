@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+	  "end": "item/amber_eye_top",
+	  "side": "item/amber_eye_side"
+	}
+  }
