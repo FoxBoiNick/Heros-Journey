@@ -27,7 +27,7 @@
           {
             "items": "minecraft:ender_eye",
             "components": {
-              "minecraft:custom_data": "{hsj_eye:1b,hsj_amber:1b}"
+              "minecraft:custom_data": "{hsj_eye:1b,smithed:{ignore:{functionality:1b,crafting:1b}},hsj_amber:1b}"
             }
           }
         ]
