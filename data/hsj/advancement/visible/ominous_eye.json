@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:ominous_eye"]}
       }
     },
-    "title": "The Ominous Eye",
-    "description": "Find the Ominous Eye in a chamber's vault",
+    "title": {
+      "translate": "jbt:adv_ominous_title",
+      "fallback": "The Ominous Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_ominous_desc",
+      "fallback": "Find the Ominous Eye in a chamber's vault"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

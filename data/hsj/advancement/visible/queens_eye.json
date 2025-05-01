@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:queens_eye"]}
       }
     },
-    "title": "The Queen's Eye",
-    "description": "Find the Queen's Eye within a hive",
+    "title": {
+      "translate": "jbt:adv_queens_title",
+      "fallback": "The Queen's Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_queens_desc",
+      "fallback": "Find the Queen's Eye within a hive"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

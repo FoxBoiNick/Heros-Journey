@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:beastmasters_eye"]}
       }
     },
-    "title": "The Beastmaster's Eye",
-    "description": "Craft the Beastmaster's Eye with the spoils of exotic creatures",
+    "title": {
+      "translate": "jbt:adv_beastmasters_title",
+      "fallback": "The Beastmaster's Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_beastmasters_desc",
+      "fallback": "Craft the Beastmaster's Eye with the spoils of exotic creatures"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

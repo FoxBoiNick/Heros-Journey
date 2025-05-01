@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:archaic_eye"]}
       }
     },
-    "title": "The Archaic Eye",
-    "description": "Find the Archaic Eye while rediscovering the past",
+    "title": {
+      "translate": "jbt:adv_archaic_title",
+      "fallback": "The Archaic Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_archaic_desc",
+      "fallback": "Find the Archaic Eye while rediscovering the past"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:bound_eye"]}
       }
     },
-    "title": "The Bound Eye",
-    "description": "Retrieve the Bound Eye from a mage of the mansion",
+    "title": {
+      "translate": "jbt:adv_bound_title",
+      "fallback": "The Bound Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_bound_desc",
+      "fallback": "Retrieve the Bound Eye from a mage of the mansion"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

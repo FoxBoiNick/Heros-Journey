@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:eldritch_eye"]}
       }
     },
-    "title": "The Eldritch Eye",
-    "description": "Find the Eldritch Eye in a archaic city deep beneath the surface",
+    "title": {
+      "translate": "jbt:adv_eldritch_title",
+      "fallback": "The Eldritch Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_eldritch_desc",
+      "fallback": "Find the Eldritch Eye in a archaic city deep beneath the surface"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

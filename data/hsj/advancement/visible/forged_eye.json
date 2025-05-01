@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:forged_eye"]}
       }
     },
-    "title": "The Forged Eye",
-    "description": "Obtain the Forged Eye from a master armorsmith",
+    "title": {
+      "translate": "jbt:adv_forged_title",
+      "fallback": "The Forged Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_forged_desc",
+      "fallback": "Obtain the Forged Eye from a master armorsmith"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

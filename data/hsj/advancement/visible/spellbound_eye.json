@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:spellbound_eye"]}
       }
     },
-    "title": "The Spellbound Eye",
-    "description": "Uncover the Spellbound Eye while enchanting an item",
+    "title": {
+      "translate": "jbt:adv_spellbound_title",
+      "fallback": "The Spellbound Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_spellbound_desc",
+      "fallback": "Uncover the Spellbound Eye while enchanting an item"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

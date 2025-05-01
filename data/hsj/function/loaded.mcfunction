@@ -1,4 +1,4 @@
-tellraw @a ["",{"text":"Hero's Journey","color":"dark_green","bold":true}," loaded!"]
+tellraw @a ["",{"text":"Hero's Journey ","color":"dark_purple","bold":true},{"translate":"hsj:loaded","fallback":"loaded!","color":"white","bold":false}]
 
 #raycast
 scoreboard objectives add hsj_raycast_hit dummy

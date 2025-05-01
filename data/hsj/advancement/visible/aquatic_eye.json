@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:aquatic_eye"]}
       }
     },
-    "title": "The Aquatic Eye",
-    "description": "Catch the Aquatic Eye while trawling the deep",
+    "title": {
+      "translate": "jbt:adv_aquatic_title",
+      "fallback": "The Aquatic Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_aquatic_desc",
+      "fallback": "Catch the Aquatic Eye while trawling the deep"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

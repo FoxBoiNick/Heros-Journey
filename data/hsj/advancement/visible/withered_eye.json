@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:withered_eye"]}
       }
     },
-    "title": "The Withered Eye",
-    "description": "Retrieve the Withered Eye from a beast with three heads",
+    "title": {
+      "translate": "jbt:adv_withered_title",
+      "fallback": "The Withered Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_withered_desc",
+      "fallback": "Retrieve the Withered Eye from a beast with three heads"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

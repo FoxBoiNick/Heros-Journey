@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:curious_eye"]}
       }
     },
-    "title": "The Curious Eye",
-    "description": "Find the Curious Eye in an enemy outpost",
+    "title": {
+      "translate": "jbt:adv_curious_title",
+      "fallback": "The Curious Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_curious_desc",
+      "fallback": "Find the Curious Eye in an enemy outpost"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

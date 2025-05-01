@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:entombed_eye"]}
       }
     },
-    "title": "The Entombed Eye",
-    "description": "Find the Entombed Eye in a desert tomb",
+    "title": {
+      "translate": "jbt:adv_entombed_title",
+      "fallback": "The Entombed Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_entombed_desc",
+      "fallback": "Find the Entombed Eye in a desert tomb"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

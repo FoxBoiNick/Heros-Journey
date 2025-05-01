@@ -4,8 +4,11 @@
         "id": "minecraft:ender_eye"
       },
       "title": "Hero's Journey",
-      "description": "A journey to The End!",
-      "background": "minecraft:textures/entity/end_portal.png",
+      "description": {
+        "translate": "jbt:adv_root_desc",
+        "fallback": "A journey to The End!"
+      },
+      "background": "minecraft:entity/end_portal",
       "show_toast": false,
       "announce_to_chat": false
     },

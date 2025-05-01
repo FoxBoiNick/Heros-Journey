@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:amber_eye"]}
       }
     },
-    "title": "The Amber Eye",
-    "description": "Find the Amber Eye at the heart of a strange forest",
+    "title": {
+      "translate": "jbt:adv_amber_title",
+      "fallback": "The Amber Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_amber_desc",
+      "fallback": "Find the Amber Eye at the heart of a strange forest"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:opulent_eye"]}
       }
     },
-    "title": "The Opulent Eye",
-    "description": "Find the Opulent Eye in a buried chest full of treasure",
+    "title": {
+      "translate": "jbt:adv_opulent_title",
+      "fallback": "The Opulent Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_opulent_desc",
+      "fallback": "Find the Opulent Eye in a buried chest full of treasure"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false

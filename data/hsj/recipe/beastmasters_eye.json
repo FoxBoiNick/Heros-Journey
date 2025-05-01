@@ -27,7 +27,7 @@
     "id": "minecraft:ender_eye",
     "count": 1,
     "components": {
-      "minecraft:custom_name": ["",{"text":"Beastmaster's Eye","italic":false}],
+      "minecraft:custom_name": ["",{"translate":"hsj:beastmasters","fallback":"Beastmasters's Eye","italic":false}],
       "minecraft:custom_model_data": {"strings":["hsj:beastmasters_eye"]},
       "minecraft:custom_data": {"hsj_eye":true,"hsj_beastmasters":true},
       "minecraft:rarity": "epic"

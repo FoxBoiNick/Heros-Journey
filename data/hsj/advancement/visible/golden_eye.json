@@ -6,8 +6,14 @@
         "minecraft:custom_model_data": {"strings":["hsj:golden_eye"]}
       }
     },
-    "title": "The Golden Eye",
-    "description": "Find the Golden Eye in a temple in the jungle",
+    "title": {
+      "translate": "jbt:adv_golden_title",
+      "fallback": "The Golden Eye"
+    },
+    "description": {
+      "translate": "jbt:adv_golden_desc",
+      "fallback": "Find the Golden Eye in a temple in the jungle"
+    },
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
