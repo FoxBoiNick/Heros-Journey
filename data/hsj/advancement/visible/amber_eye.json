@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_amber_title",
+      "translate": "hsj:adv_amber_title",
       "fallback": "The Amber Eye"
     },
     "description": {
-      "translate": "jbt:adv_amber_desc",
+      "translate": "hsj:adv_amber_desc",
       "fallback": "Find the Amber Eye at the heart of a strange forest"
     },
     "show_toast": true,

@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_golden_title",
+      "translate": "hsj:adv_golden_title",
       "fallback": "The Golden Eye"
     },
     "description": {
-      "translate": "jbt:adv_golden_desc",
+      "translate": "hsj:adv_golden_desc",
       "fallback": "Find the Golden Eye in a temple in the jungle"
     },
     "show_toast": true,

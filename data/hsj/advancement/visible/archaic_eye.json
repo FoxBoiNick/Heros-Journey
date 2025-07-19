@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_archaic_title",
+      "translate": "hsj:adv_archaic_title",
       "fallback": "The Archaic Eye"
     },
     "description": {
-      "translate": "jbt:adv_archaic_desc",
+      "translate": "hsj:adv_archaic_desc",
       "fallback": "Find the Archaic Eye while rediscovering the past"
     },
     "show_toast": true,

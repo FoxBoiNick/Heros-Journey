@@ -1,6 +1,10 @@
 {
    "pack":{
-      "pack_format":55,
-      "description":"A journey to The End!"
+      "pack_format":64,
+      "description":"A journey to The End!",
+    "supported_formats": {
+      "max_inclusive": 64,
+      "min_inclusive": 55
+    }
    }
 }

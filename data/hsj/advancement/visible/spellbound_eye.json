@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_spellbound_title",
+      "translate": "hsj:adv_spellbound_title",
       "fallback": "The Spellbound Eye"
     },
     "description": {
-      "translate": "jbt:adv_spellbound_desc",
+      "translate": "hsj:adv_spellbound_desc",
       "fallback": "Uncover the Spellbound Eye while enchanting an item"
     },
     "show_toast": true,

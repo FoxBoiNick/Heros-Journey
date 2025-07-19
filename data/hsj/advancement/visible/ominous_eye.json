@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_ominous_title",
+      "translate": "hsj:adv_ominous_title",
       "fallback": "The Ominous Eye"
     },
     "description": {
-      "translate": "jbt:adv_ominous_desc",
+      "translate": "hsj:adv_ominous_desc",
       "fallback": "Find the Ominous Eye in a chamber's vault"
     },
     "show_toast": true,

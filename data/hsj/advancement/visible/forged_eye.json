@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_forged_title",
+      "translate": "hsj:adv_forged_title",
       "fallback": "The Forged Eye"
     },
     "description": {
-      "translate": "jbt:adv_forged_desc",
+      "translate": "hsj:adv_forged_desc",
       "fallback": "Obtain the Forged Eye from a master armorsmith"
     },
     "show_toast": true,

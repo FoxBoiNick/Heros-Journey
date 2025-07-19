@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_opulent_title",
+      "translate": "hsj:adv_opulent_title",
       "fallback": "The Opulent Eye"
     },
     "description": {
-      "translate": "jbt:adv_opulent_desc",
+      "translate": "hsj:adv_opulent_desc",
       "fallback": "Find the Opulent Eye in a buried chest full of treasure"
     },
     "show_toast": true,

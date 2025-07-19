@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_aquatic_title",
+      "translate": "hsj:adv_aquatic_title",
       "fallback": "The Aquatic Eye"
     },
     "description": {
-      "translate": "jbt:adv_aquatic_desc",
+      "translate": "hsj:adv_aquatic_desc",
       "fallback": "Catch the Aquatic Eye while trawling the deep"
     },
     "show_toast": true,

@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_curious_title",
+      "translate": "hsj:adv_curious_title",
       "fallback": "The Curious Eye"
     },
     "description": {
-      "translate": "jbt:adv_curious_desc",
+      "translate": "hsj:adv_curious_desc",
       "fallback": "Find the Curious Eye in an enemy outpost"
     },
     "show_toast": true,

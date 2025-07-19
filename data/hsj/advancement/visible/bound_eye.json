@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_bound_title",
+      "translate": "hsj:adv_bound_title",
       "fallback": "The Bound Eye"
     },
     "description": {
-      "translate": "jbt:adv_bound_desc",
+      "translate": "hsj:adv_bound_desc",
       "fallback": "Retrieve the Bound Eye from a mage of the mansion"
     },
     "show_toast": true,

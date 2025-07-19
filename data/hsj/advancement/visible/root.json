@@ -5,7 +5,7 @@
       },
       "title": "Hero's Journey",
       "description": {
-        "translate": "jbt:adv_root_desc",
+        "translate": "hsj:adv_root_desc",
         "fallback": "A journey to The End!"
       },
       "background": "minecraft:entity/end_portal",

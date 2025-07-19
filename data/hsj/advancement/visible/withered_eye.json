@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_withered_title",
+      "translate": "hsj:adv_withered_title",
       "fallback": "The Withered Eye"
     },
     "description": {
-      "translate": "jbt:adv_withered_desc",
+      "translate": "hsj:adv_withered_desc",
       "fallback": "Retrieve the Withered Eye from a beast with three heads"
     },
     "show_toast": true,

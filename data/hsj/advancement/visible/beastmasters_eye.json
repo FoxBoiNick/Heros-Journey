@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_beastmasters_title",
+      "translate": "hsj:adv_beastmasters_title",
       "fallback": "The Beastmaster's Eye"
     },
     "description": {
-      "translate": "jbt:adv_beastmasters_desc",
+      "translate": "hsj:adv_beastmasters_desc",
       "fallback": "Craft the Beastmaster's Eye with the spoils of exotic creatures"
     },
     "show_toast": true,

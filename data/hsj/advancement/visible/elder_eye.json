@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_elder_title",
+      "translate": "hsj:adv_elder_title",
       "fallback": "The Elder Eye"
     },
     "description": {
-      "translate": "jbt:adv_elder_desc",
+      "translate": "hsj:adv_elder_desc",
       "fallback": "Retrieve the Elder Eye from an ancient guardian"
     },
     "show_toast": true,

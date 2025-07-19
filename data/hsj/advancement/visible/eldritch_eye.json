@@ -7,11 +7,11 @@
       }
     },
     "title": {
-      "translate": "jbt:adv_eldritch_title",
+      "translate": "hsj:adv_eldritch_title",
       "fallback": "The Eldritch Eye"
     },
     "description": {
-      "translate": "jbt:adv_eldritch_desc",
+      "translate": "hsj:adv_eldritch_desc",
       "fallback": "Find the Eldritch Eye in a archaic city deep beneath the surface"
     },
     "show_toast": true,
